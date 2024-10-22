@@ -5,6 +5,8 @@
     "**/*.js",
     "**/*.md",
     "**/*.json",
+    "**/*.scss",
+    "**/*.css",
     ".eslintrc.cjs"
   ],
   "rules": {
